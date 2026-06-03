@@ -58,7 +58,8 @@ with tab2:
 with tab3:
     st.header("My Profile")
     st.write("Need a Legit Engineer? Come Look at my profile!")
-    st.image("62820b86-9766-47f8-9bc7-cac1872ae20b.jpeg")
+    st.image("zr-heating-app/62820b86-9766-47f8-9bc7-cac1872ae20b.jpeg")
+
 
 # 5. Style configuration
 st.markdown(
